@@ -810,7 +810,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure:hover img {
-  opacity: 0.4;
+  opacity: 0.7;
   transition: 0.3s;
 }
 
@@ -858,7 +858,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure:hover .link-details {
   opacity: 1;
-  right: calc(50% - 44px);
+  right: calc(50% - 20px);
 }
 
 #portfolio .portfolio-item .portfolio-info {
